@@ -1,6 +1,8 @@
-### Hi there 👋
+### CERTS:
+<img src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-File.png" height="90" width="90">
+
+### LANGUAGES:
 <img src="https://assets-global.website-files.com/5fc82ceef95f49286b9a1737/623ca6569cbafb2e00dde673_Cert-Icon-PC-Pro.png" height="90" width="90">
-<img src="https://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-File.png" height="90" width="90"> 
 <!--
 **noahdub/noahdub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
