@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img src="https://assets-global.website-files.com/5fc82ceef95f49286b9a1737/623ca6569cbafb2e00dde673_Cert-Icon-PC-Pro.png" height="90" width="90">
+<img src="https://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" height="90" width="90">
 <!--
 **noahdub/noahdub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
